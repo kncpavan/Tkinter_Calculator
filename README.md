@@ -1,4 +1,4 @@
-# 🧮 Tkinter Calculator
+Tkinter Calculator
 
 A simple GUI-based calculator built using Python Tkinter. This calculator performs basic arithmetic operations like addition, subtraction, multiplication, and division with a user-friendly interface.
 
